@@ -1,0 +1,7 @@
+body {font-family: "Segoe UI", Verdana;}
+table,th,td {border: solid 1px #000;}
+th {width: 85px;}
+td {text-align: center;}
+tr:hover {background: #eee;}
+td:hover {background: #ddd;}
+.dst {font-weight: bold; color: #f00;}
